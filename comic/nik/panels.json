@@ -1,0 +1,212 @@
+{
+	"panels": [{
+		"path": "nik-panel-1.png",
+		"rects": [
+			[109, 17, 130, 155]
+		]
+	}, {
+		"path": "nik-panel-2.png",
+		"rects": [
+			[14, 9, 222, 49]
+		]
+	}, {
+		"path": "nik-panel-3.png",
+		"rects": [
+			[10, 12, 70, 167]
+		]
+	}, {
+		"path": "nik-panel-4.png",
+		"rects": [
+			[9, 3, 235, 28]
+		]
+	}, {
+		"path": "nik-panel-5.png",
+		"rects": [
+			[131, 6, 112, 76]
+		]
+	}, {
+		"path": "nik-panel-6.png",
+		"rects": [
+			[9, 8, 122, 105]
+		]
+	}, {
+		"path": "nik-panel-7.png",
+		"rects": [
+			[9, 50, 95, 54],
+			[105, 10, 95, 54]
+		]
+	}, {
+		"path": "nik-panel-8.png",
+		"rects": [
+			[8, 20, 86, 164]
+		]
+	}, {
+		"path": "nik-panel-9.png",
+		"rects": [
+			[28, 7, 77, 58],
+			[5, 70, 96, 45]
+		]
+	}, {
+		"path": "nik-panel-10.png",
+		"rects": [
+			[8, 25, 95, 157]
+		]
+	}, {
+		"path": "nik-panel-11.png",
+		"rects": [
+			[52, 7, 184, 53]
+		]
+	}, {
+		"path": "nik-panel-12.png",
+		"rects": [
+			[7, 46, 102, 70]
+		]
+	}, {
+		"path": "nik-panel-13.png",
+		"rects": [
+			[13, 5, 138, 63]
+		]
+	}, {
+		"path": "nik-panel-14.png",
+		"rects": [
+			[140, 3, 105, 43],
+			[7, 4, 112, 36]
+		]
+	}, {
+		"path": "nik-panel-15.png",
+		"rects": [
+			[96, 14, 143, 117]
+		]
+	}, {
+		"path": "nik-panel-16.png",
+		"rects": [
+			[84, 121, 159, 68]
+		]
+	}, {
+		"path": "nik-panel-17.png",
+		"rects": [
+			[132, 33, 112, 74]
+		]
+	}, {
+		"path": "nik-panel-18.png",
+		"rects": [
+			[73, 63, 163, 126]
+		]
+	}, {
+		"path": "nik-panel-19.png",
+		"rects": [
+			[61, 51, 178, 101]
+		]
+	}, {
+		"path": "nik-panel-20.png",
+		"rects": [
+			[131, 36, 108, 89]
+		]
+	}, {
+		"path": "nik-panel-21.png",
+		"rects": [
+			[8, 12, 94, 65],
+			[125, 9, 120, 57]
+		]
+	}, {
+		"path": "nik-panel-22.png",
+		"rects": [
+			[25, 18, 116, 57]
+		]
+	}, {
+		"path": "nik-panel-23.png",
+		"rects": [
+			[161, 129, 86, 61],
+			[17, 28, 119, 69]
+		]
+	}, {
+		"path": "nik-panel-24.png",
+		"rects": [
+			[94, 3, 146, 38]
+		]
+	}, {
+		"path": "nik-panel-25.png",
+		"rects": [
+			[72, 21, 119, 63]
+		]
+	}, {
+		"path": "nik-panel-26.png",
+		"rects": [
+			[124, 6, 122, 57],
+			[22, 50, 91, 52]
+		]
+	}, {
+		"path": "nik-panel-27.png",
+		"rects": [
+			[81, 18, 100, 70]
+		]
+	}, {
+		"path": "nik-panel-28.png",
+		"rects": [
+			[70, 2, 119, 59]
+		]
+	}, {
+		"path": "nik-panel-29.png",
+		"rects": [
+			[43, 13, 124, 60]
+		]
+	}, {
+		"path": "nik-panel-30.png",
+		"rects": [
+			[106, 59, 132, 131]
+		]
+	}, {
+		"path": "nik-panel-31.png",
+		"rects": [
+			[125, 14, 118, 103],
+			[123, 157, 119, 34]
+		]
+	}, {
+		"path": "nik-panel-32.png",
+		"rects": [
+			[48, 9, 120, 89]
+		]
+	}, {
+		"path": "nik-panel-33.png",
+		"rects": [
+			[5, 11, 116, 59]
+		]
+	}, {
+		"path": "nik-panel-34.png",
+		"rects": [
+			[12, 43, 166, 60]
+		]
+	}, {
+		"path": "nik-panel-35.png",
+		"rects": [
+			[126, 5, 119, 85],
+			[7, 21, 100, 92]
+		]
+	}, {
+		"path": "nik-panel-36.png",
+		"rects": [
+			[110, 11, 131, 78]
+		]
+	}, {
+		"path": "nik-panel-37.png",
+		"rects": [
+			[117, 7, 130, 82]
+		]
+	}, {
+		"path": "nik-panel-38.png",
+		"rects": [
+			[5, 16, 93, 113]
+		]
+	}, {
+		"path": "nik-panel-39.png",
+		"rects": [
+			[124, 16, 122, 129]
+		]
+	}, {
+		"path": "nik-panel-40.png",
+		"rects": [
+			[16, 14, 224, 62],
+			[20, 145, 211, 44]
+		]
+	}]
+}
